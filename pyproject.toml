@@ -1,0 +1,9 @@
+[project]
+name = "deepseek-client"
+version = "0.1.0"
+description = "A simple DeepSeek API client"
+requires-python = ">=3.9"
+dependencies = [
+    "openai",
+    "python-dotenv",
+]
